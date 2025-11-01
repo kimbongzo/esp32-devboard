@@ -5,6 +5,6 @@ ESP32 development board sensor test code with Arduino IDE
 
 GPIO Table
 
-![GPIO 할당 테이블-1](https://github.com/user-attachments/assets/bf6fc7a2-42c9-48bf-a664-1fa01ff5ce0b)
+![GPIO Table-1](https://github.com/user-attachments/assets/d59b3368-a3d7-4e87-ade3-0a3fc4e83e40)
 
-![GPIO 할당 테이블-2](https://github.com/user-attachments/assets/fa5bb858-4e17-4063-bfb1-dc91398b9631)
+![GPIO Table-2](https://github.com/user-attachments/assets/702cdf48-cfa8-43cf-92f2-3655c31b7f3b)
